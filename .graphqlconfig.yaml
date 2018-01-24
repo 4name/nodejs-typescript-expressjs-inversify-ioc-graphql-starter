@@ -1,0 +1,6 @@
+projects:
+  di:
+    schemaPath: schema.graphql
+    extensions:
+      endpoints:
+        default: 'http://localhost:3000/graphql'
