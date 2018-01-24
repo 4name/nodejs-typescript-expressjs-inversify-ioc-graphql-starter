@@ -1,0 +1,14 @@
+{
+  "language": "node_js",
+  "node_js": "8",
+  "services": [
+    "mongodb"
+  ],
+  before_script: [
+    "yarn start"
+  ]
+  "script": [
+    "yarn run build",
+    "yarn run test"
+  ]
+}
