@@ -1,0 +1,14 @@
+version: '2'
+services:
+  web:
+    build:
+      context: .
+      args:
+      - PORT=3000
+      - ENVIRONMENT=production
+#      - ENVIRONMENT=development
+    ports:
+     - "3000:3000"
+    volumes:
+     - .:/starter
+     - /starter/node_modules
