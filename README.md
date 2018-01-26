@@ -1,5 +1,7 @@
 # TypeScript Node Starter
 
+[![Join the chat at https://gitter.im/nodejs-typescript-expressjs-inversify-ioc-graphql-starter/Lobby](https://badges.gitter.im/nodejs-typescript-expressjs-inversify-ioc-graphql-starter/Lobby.svg)](https://gitter.im/nodejs-typescript-expressjs-inversify-ioc-graphql-starter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Dependency Status](https://david-dm.org/Teremok/nodejs-typescript-expressjs-inversify-ioc-graphql-starter.svg)](https://david-dm.org/Teremok/nodejs-typescript-expressjs-inversify-ioc-graphql-starter) [![Build Status](https://travis-ci.org/Teremok/nodejs-typescript-expressjs-inversify-ioc-graphql-starter.svg?branch=master)](https://travis-ci.org/Teremok/nodejs-typescript-expressjs-inversify-ioc-graphql-starter) 
 
 # Pre-reqs
